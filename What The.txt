@@ -1,0 +1,13 @@
+Not a git repository.
+Local name: master
+Remote name: origin
+
+IntelliJ IDEA shortcuts.
+-> Reformat: ctrl + alt + L
+-> Multi Cursor: Hold alt + shift, put cursor at the required position by mouse.
+-> Refactor: ctrl + alt + shift + T
+-> To quickly highlight all usages of selected variable in the current file: ctrl + shift + f7
+-> Refactor: shift + f6
+-> Move line up / down: alt + shift + up arrow / down arrow
+-> To delete the whole line at current caret: Ctrl + Y
+-> Join next line with current caret line: ctrl + shift + J
