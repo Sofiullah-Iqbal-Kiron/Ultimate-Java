@@ -1,4 +1,4 @@
-Not a git repository.
+Git repository.
 Local name: master
 Remote name: origin
 
